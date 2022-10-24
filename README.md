@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+这里是清华大学行健书院学生科协技术宣传部的技术文档！
+
+E-mail: zhengyua21@mails.tsinghua.edu.cn
